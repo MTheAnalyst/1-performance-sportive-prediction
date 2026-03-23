@@ -146,13 +146,6 @@ streamlit run app.py
 
 ---
 
-## ⚠️ Limites
-
-- Dataset limité
-- Variables simplifiées
-- Pas de données temps réel
-
----
 
 ## 🔮 Perspectives
 
